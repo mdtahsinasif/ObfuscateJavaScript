@@ -5,8 +5,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.pipeline import Pipeline
 
-js_path = "C:\\Users\\tahsin.asif\\OneDrive - CYFIRMA INDIA PRIVATE LIMITED\\AI\\ObfuscatedJavaScriptData\\JavascriptSamples"
-obfuscated_js_path = "C:\\Users\\tahsin.asif\\OneDrive - CYFIRMA INDIA PRIVATE LIMITED\\AI\\ObfuscatedJavaScriptData\\JavascriptSamplesObfuscated"
+js_path = ".AI\\ObfuscatedJavaScriptData\\JavascriptSamples"
+obfuscated_js_path = "..AI\\ObfuscatedJavaScriptData\\JavascriptSamplesObfuscated"
 
 corpus = []
 labels = []
